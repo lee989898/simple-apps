@@ -12,16 +12,19 @@
         android:layout_height="120dp">
 
         <ImageView
+            android:id="@+id/main_warrior_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/warrior" />
 
         <ImageView
+            android:id="@+id/main_shaman_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/shaman" />
 
         <ImageView
+            android:id="@+id/main_rogue_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/rogue" />
@@ -33,16 +36,19 @@
         android:layout_height="wrap_content">
 
         <ImageView
+            android:id="@+id/main_paladin_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/paladin" />
 
         <ImageView
+            android:id="@+id/main_hunter_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/hunter" />
 
         <ImageView
+            android:id="@+id/main_druid_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/druid" />
@@ -54,16 +60,19 @@
         android:layout_height="wrap_content">
 
         <ImageView
+            android:id="@+id/main_warlock_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/warlock" />
 
         <ImageView
+            android:id="@+id/main_mage_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/mage" />
 
         <ImageView
+            android:id="@+id/main_priest_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/priest" />
@@ -75,6 +84,7 @@
         android:layout_height="wrap_content">
 
         <ImageView
+            android:id="@+id/main_demonhunter_iv"
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/demonhunter" />
