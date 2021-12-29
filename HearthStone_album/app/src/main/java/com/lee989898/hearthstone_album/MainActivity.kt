@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
         val priestImg = findViewById<ImageView>(R.id.main_priest_iv)
         val demonhunterImg = findViewById<ImageView>(R.id.main_demonhunter_iv)
 
-
         warriorImg.setOnClickListener {
             Toast.makeText(this, "전사 클릭 완료", Toast.LENGTH_SHORT).show()
 
@@ -35,63 +34,63 @@ class MainActivity : AppCompatActivity() {
         shamanImg.setOnClickListener {
             Toast.makeText(this, "주술사 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, ShamanActivity::class.java)
             startActivity(intent)
         }
 
         rogueImg.setOnClickListener {
             Toast.makeText(this, "도적 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, RogueActivity::class.java)
             startActivity(intent)
         }
 
         paladinImg.setOnClickListener {
             Toast.makeText(this, "성기사 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, PaladinActivity::class.java)
             startActivity(intent)
         }
 
         hunterImg.setOnClickListener {
             Toast.makeText(this, "사냥꾼 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, HunterActivity::class.java)
             startActivity(intent)
         }
 
         druidImg.setOnClickListener {
             Toast.makeText(this, "드루이드 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, DruidActivity::class.java)
             startActivity(intent)
         }
 
         warlockImg.setOnClickListener {
             Toast.makeText(this, "흑마법사 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, WarlockActivity::class.java)
             startActivity(intent)
         }
 
         mageImg.setOnClickListener {
             Toast.makeText(this, "마법사 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, MageActivity::class.java)
             startActivity(intent)
         }
 
         priestImg.setOnClickListener {
             Toast.makeText(this, "사제 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, PriestActivity::class.java)
             startActivity(intent)
         }
 
         demonhunterImg.setOnClickListener {
             Toast.makeText(this, "악마사냥꾼 클릭 완료", Toast.LENGTH_SHORT).show()
 
-            val intent = Intent(this, WarriorActivity::class.java)
+            val intent = Intent(this, DemonHunterActivity::class.java)
             startActivity(intent)
         }
 

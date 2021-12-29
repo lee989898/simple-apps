@@ -5,7 +5,16 @@
       <map>
         <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26927083333333335" />
         <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_big_hearth_stone.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_demon_hunter.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_druid.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_hunter.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_mage.xml" value="0.253125" />
         <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_main.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_paladin.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_priest.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_rogue.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_shaman.xml" value="0.253125" />
+        <entry key="..\:/Users/joon_/Desktop/simple-apps/HearthStone_album/app/src/main/res/layout/activity_warlock.xml" value="0.253125" />
       </map>
     </option>
   </component>

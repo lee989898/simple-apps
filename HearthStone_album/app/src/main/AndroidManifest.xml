@@ -10,6 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HearthStone_album">
         <activity
+            android:name=".DemonHunterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PriestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WarlockActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DruidActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HunterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PaladinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RogueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShamanActivity"
+            android:exported="false" />
+        <activity
             android:name=".WarriorActivity"
             android:exported="false" />
         <activity
