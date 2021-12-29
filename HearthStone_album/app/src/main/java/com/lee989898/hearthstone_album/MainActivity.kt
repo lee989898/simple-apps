@@ -1,5 +1,6 @@
 package com.lee989898.hearthstone_album
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
@@ -15,6 +16,9 @@ class MainActivity : AppCompatActivity() {
         val warriorImg = findViewById<ImageView>(R.id.main_warrior_iv)
         warriorImg.setOnClickListener {
             Toast.makeText(this, "1번 클릭 완료", Toast.LENGTH_SHORT).show()
+
+            val intent = Intent(this, BigHearthStoneActivity::class.java)
+            startActivity(intent)
         }
 
     }
