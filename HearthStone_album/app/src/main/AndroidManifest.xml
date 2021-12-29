@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HearthStone_album">
         <activity
-            android:name=".BigHearthStoneActivity"
+            android:name=".WarriorActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
