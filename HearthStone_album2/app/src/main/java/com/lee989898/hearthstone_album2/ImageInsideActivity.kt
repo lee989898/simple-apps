@@ -17,31 +17,31 @@ class ImageInsideActivity : AppCompatActivity() {
             changeImage.setImageResource(R.drawable.warrior)
         }
         if(getData == "2"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.shaman)
         }
         if(getData == "3"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.rogue)
         }
         if(getData == "4"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.paladin)
         }
         if(getData == "5") {
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.hunter)
         }
         if(getData == "6"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.druid)
         }
         if(getData == "7"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.warlock)
         }
         if(getData == "8"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.mage)
         }
         if(getData == "9"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.priest)
         }
         if(getData == "10"){
-            changeImage.setImageResource(R.drawable.warrior)
+            changeImage.setImageResource(R.drawable.demonhunter)
         }
 
 
